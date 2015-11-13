@@ -36,7 +36,7 @@
     // Dispose of any resources that can be recreated.
 }
 -(void)webViewDidFinishLoad:(UIWebView *)webView{
-    [DPConnection sharedInstance].request = self.webView.request;
+    [DPConnection sharedInstance].request = webView.request;
 }
 /*
 #pragma mark - Navigation

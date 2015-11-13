@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5CDA3384-1FA7-4CC7-9343-C110A97088DE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Designpattern</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8B0370F1457044374969AB5FA6ECB8D57C606E4A</key>
+		<string>https://github.com/Oktasuke/singletonDEMO.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Designpattern/Designpattern.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8B0370F1457044374969AB5FA6ECB8D57C606E4A</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Oktasuke/singletonDEMO.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8B0370F1457044374969AB5FA6ECB8D57C606E4A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8B0370F1457044374969AB5FA6ECB8D57C606E4A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>singletonDEMO</string>
+		</dict>
+	</array>
+</dict>
+</plist>
